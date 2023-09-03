@@ -9,34 +9,34 @@
 # 👨‍💻 Familiar Technologies
 
 ## Programming Languages
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
-<img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/>
-<img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript"/>
-<img src="https://img.icons8.com/officel/48/000000/php-logo.png" title="PHP"/>
+![C](https://img.icons8.com/color/48/000000/c-programming.png "C")
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png "C++")
+![Python](https://img.icons8.com/color/48/000000/python.png "Python")
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png "Java")
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png "JavaScript")
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png "TypeScript")
+![PHP](https://img.icons8.com/officel/48/000000/php-logo.png "PHP")
 
 ## Frameworks and Libraries
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
-<img src="https://img.icons8.com/officel/48/000000/react.png" title="React"/>
-<img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow"/>
-<img src="https://img.icons8.com/color/48/000000/numpy.png" title="NumPy"/>
-<img src="https://img.icons8.com/color/48/000000/pandas.png" title="Pandas"/>
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png "Node.js")
+![React](https://img.icons8.com/officel/48/000000/react.png "React")
+![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png "TensorFlow")
+![NumPy](https://img.icons8.com/color/48/000000/numpy.png "NumPy")
+![Pandas](https://img.icons8.com/color/48/000000/pandas.png "Pandas")
 
 ## Database
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"/>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/>
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png "MySQL")
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png "MongoDB")
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png "PostgreSQL")
 
 ## Other
-<img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/> 
-<img src="https://img.icons8.com/color/48/000000/android-os.png" title="Android"/>
-<img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux"/>
-<img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker"/> 
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
-<img src="https://img.icons8.com/color/48/000000/figma.png" title="Figma"/>
-<img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub Actions"/>
+![Git](https://img.icons8.com/color/48/000000/git.png "Git")
+![Android](https://img.icons8.com/color/48/000000/android-os.png "Android")
+![Linux](https://img.icons8.com/color/48/000000/linux.png "Linux")
+![Docker](https://img.icons8.com/color/48/000000/docker.png "Docker")
+![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png "VS Code")
+![Figma](https://img.icons8.com/color/48/000000/figma.png "Figma")
+![GitHub Actions](https://img.icons8.com/color/48/000000/github.png "GitHub Actions")
 
 # 📈 GitHub Stats
 
