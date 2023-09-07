@@ -115,7 +115,6 @@ C++                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## Overview 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.2%20million%20lines%20of%20code-blue)
 
 ![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nipunchamikara&show_icons=true&theme=radical)
 
