@@ -41,15 +41,13 @@
 # 📈 GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2029%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 886.2 kB Used in GitHub's Storage 
  > 
-> 🏆 648 Contributions in the Year 2023
+> 🏆 649 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,28 +55,6 @@
  > 
 > 🔑 8 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-Python                   24 hrs 21 mins      █████████████████░░░░░░░░   69.23 % 
-Java Properties          2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Bash                     2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Java                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-CSV                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-
-🔥 Editors: 
-VS Code                  17 hrs 57 mins      █████████████░░░░░░░░░░░░   51.03 % 
-PyCharm                  11 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   33.64 % 
-IntelliJ                 5 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-
-💻 Operating System: 
-Mac                      20 hrs 44 mins      ███████████████░░░░░░░░░░   58.96 % 
-Linux                    14 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   41.04 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -92,7 +68,7 @@ Yacc                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2023 18:37:33 UTC
+ Last Updated on 06/12/2023 18:38:14 UTC
 <!--END_SECTION:waka-->
 
 ## Overview 
