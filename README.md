@@ -95,8 +95,3 @@ Yacc                     1 repo              ░░░░░░░░░░░�
  Last Updated on 17/12/2023 18:36:37 UTC
 <!--END_SECTION:waka-->
 
-## Overview 
-
-![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nipunchamikara&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunchamikara&layout=compact&theme=radical)
