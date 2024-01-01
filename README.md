@@ -46,8 +46,6 @@
 
 > 📦 886.3 kB Used in GitHub's Storage 
  > 
-> 🏆 708 Contributions in the Year 2023
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -100,6 +98,6 @@ Yacc                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2023 18:35:32 UTC
+ Last Updated on 01/01/2024 18:36:53 UTC
 <!--END_SECTION:waka-->
 
