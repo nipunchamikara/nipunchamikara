@@ -40,13 +40,11 @@
 # 📈 GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-911%20hrs%2049%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 886.4 kB Used in GitHub's Storage 
  > 
-> 🏆 394 Contributions in the Year 2024
+> 🏆 396 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,27 +52,6 @@
  > 
 > 🔑 8 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-Java                     3 hrs 55 mins       ███████████░░░░░░░░░░░░░░   45.76 % 
-Docker                   1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Makefile                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-
-🔥 Editors: 
-IntelliJ IDEA            7 hrs 18 mins       █████████████████████░░░░   85.11 % 
-VS Code                  55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-PyCharm                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-
-💻 Operating System: 
-Mac                      8 hrs 35 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -88,6 +65,6 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2024 18:35:03 UTC
+ Last Updated on 24/07/2024 18:39:10 UTC
 <!--END_SECTION:waka-->
 
