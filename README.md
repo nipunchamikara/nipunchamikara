@@ -1,6 +1,6 @@
 # 🙋‍♂️ About Me
 - 👋 Hi, I’m @nipunchamikara
-- 👀 I’m interested in Machine Learning, Competitive Programming and Web Development
+- 👀 I’m interested in Development, DevOps, Competitive Programming, and Data Science
 - 🌱 I’m currently learning about Artificial Intelligence and Machine Learning
 - 📜 My Research Interests include Radio Tomography
 - 📫 Reach me [here](mailto:nipunchamikara@yahoo.com)!
@@ -30,12 +30,11 @@
 
 ## Other
 ![Git](https://img.icons8.com/color/48/000000/git.png "Git")
-![Android](https://img.icons8.com/color/48/000000/android-os.png "Android")
 ![Linux](https://img.icons8.com/color/48/000000/linux.png "Linux")
 ![Docker](https://img.icons8.com/color/48/000000/docker.png "Docker")
-![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png "VS Code")
 ![Figma](https://img.icons8.com/color/48/000000/figma.png "Figma")
 ![GitHub Actions](https://img.icons8.com/color/48/000000/github.png "GitHub Actions")
+![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png "Jenkins")
 
 # 📈 GitHub Stats
 
