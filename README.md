@@ -1,6 +1,6 @@
 # 🙋‍♂️ About Me
 - 👋 Hi, I’m @nipunchamikara
-- 👀 I’m interested in Development, DevOps, Competitive Programming, and Data Science
+- 👀 I’m interested in Software Development, DevOps, Competitive Programming, and Data Science
 - 🌱 I’m currently learning about Artificial Intelligence and Machine Learning
 - 📜 My Research Interests include Radio Tomography
 - 📫 Reach me [here](mailto:nipunchamikara@yahoo.com)!
